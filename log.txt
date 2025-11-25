@@ -1,5 +1,6 @@
-5519eb0 (HEAD -> Task1.1, origin/Task1.1) Task 1.1
-2b4f164 (origin/main, origin/HEAD, main) fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+fbc6e43 (HEAD -> Task2, origin/Task1.1, Task1.1) Task 1.2
+5519eb0 Task 1.1
+2b4f164 (main) fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
